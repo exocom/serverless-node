@@ -1,4 +1,4 @@
-FROM kalarrs/serverless-node:latest
+FROM exocom/serverless-node:latest
 
 # install serverless-cli
 RUN yarn global add serverless
